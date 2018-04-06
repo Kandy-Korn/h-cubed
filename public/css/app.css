@@ -3,9 +3,9 @@
     color: #f76f00;
 }
 
-.hover {
-    background-color: #ffffff;
-    color: #f76f00;
+.active {
+    background-color: #f76f00;
+    color: #ffffff;
 }
 
 .btn-block {

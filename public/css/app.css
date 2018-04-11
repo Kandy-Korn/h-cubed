@@ -3,6 +3,11 @@
     color: #f76f00;
 }
 
+.btn-large {
+    background-color: #ffffff;
+    color: #f76f00;
+}
+
 .active {
     background-color: #f76f00;
     color: #ffffff;

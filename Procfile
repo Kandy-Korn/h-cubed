@@ -1,1 +1,1 @@
-heroku stack:set heroku-16
+web: bundle exec ruby app.rb -p $PORT
